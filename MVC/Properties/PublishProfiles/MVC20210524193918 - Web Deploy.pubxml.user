@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANLK41KdVokKqeUqmSoikOwAAAAACAAAAAAAQZgAAAAEAACAAAAB7UZ8l0Iahwvo9RdeD4T0kJ4TXBKgqI8Fm8ZS63XoXGAAAAAAOgAAAAAIAACAAAABGRTBnZUnAL0ZoErw2IY2nt/aHsyib9zuw6dW+7C7DqYAAAADPfHry9NSz/Sk0rBW6UkppDqIgCsIOJ801sirzji7LGo2ah2nG9wKRTQj+y59DWWThPS3gR3DbWbqiaz1Wsw34CSpdpZ6WBRlUHEyft+gVDd6nQJdkFuoWjn4KrBjsOrx2OiC+2CQlIepAhrHKhjx2BqTsFXO1dwHuv/mGLa9aJ0AAAAB2PRQSHfCYBad6NlQbYU46yd/azvVAIqFA9L2ZS1e8Goas+q3MqnCI+5hd8IAStTkX55z9wskAM7yMYpS6pxSH</EncryptedPassword>
+    <History>True|2021-05-25T00:36:57.9069626Z;False|2021-05-24T21:28:29.1458405-03:00;False|2021-05-24T21:27:51.8912561-03:00;True|2021-05-24T21:27:03.3445300-03:00;True|2021-05-24T21:26:08.2376387-03:00;False|2021-05-24T21:25:17.9688055-03:00;False|2021-05-24T21:23:28.7491977-03:00;False|2021-05-24T21:21:51.1073090-03:00;False|2021-05-24T21:17:30.3562688-03:00;True|2021-05-24T21:16:22.9392154-03:00;False|2021-05-24T21:15:25.8795320-03:00;False|2021-05-24T21:15:05.3854968-03:00;True|2021-05-24T21:12:27.2434387-03:00;True|2021-05-24T21:05:20.4238251-03:00;True|2021-05-24T20:57:00.3717166-03:00;False|2021-05-24T20:56:11.3007424-03:00;True|2021-05-24T20:53:36.6516971-03:00;True|2021-05-24T20:49:42.5251285-03:00;True|2021-05-24T20:43:48.9172393-03:00;True|2021-05-24T20:06:52.8535013-03:00;True|2021-05-24T20:05:07.7975066-03:00;True|2021-05-24T20:03:02.2913872-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MVC.Models.Context">
+      <Value>Data Source=tcp:mvccursodbserver.database.windows.net,1433%3bInitial Catalog=MVC_db%3bUser Id=cursomvc%40mvccursodbserver%3bPassword=Silver12</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
